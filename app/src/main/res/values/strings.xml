@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spider task 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="timervalapp1">Medium Text</string>
+    <string name="webvalapp1">Medium Text</string>
+    <string name="webvalexitbutton1">New Button</string>
+    <string name="exitbuutonvaluestrn">Exit</string>
+</resources>
