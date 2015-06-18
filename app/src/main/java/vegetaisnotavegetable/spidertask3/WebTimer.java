@@ -141,7 +141,8 @@ public class WebTimer extends ActionBarActivity {
         @Override
         protected String doInBackground(Void... params) {
             String response ="";
-            String S = "http://spider.nitt.edu/~vishnu/time.php";
+            String S = "http://timergen.ngrok.io/timegen.php";
+            //The Above link is hosted from my system (as a server) , so expect app to crash when my system is not online :P
             InputStream inputStream = null;
             try {
                 URL url = new URL(S);
